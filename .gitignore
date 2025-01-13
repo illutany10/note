@@ -1,1 +1,5 @@
 **/__pycache__
+
+# Django Migrations
+**/migrations/**
+!**/migrations/__init__.py
